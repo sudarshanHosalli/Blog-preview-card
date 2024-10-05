@@ -27,7 +27,7 @@ started with html built skeleton first and then added styles
 
 ### What I learned
 
-1. discovered abouttime html tag which is used to show date
+1. discovered about <time></time> html tag which is used to show date
 2. learned to make box-shadows
 
 
